@@ -12,7 +12,7 @@ body {
   background-color: #1f1f38;
 }
 
-.title{
+.title {
   color: white;
 }
 
@@ -67,7 +67,7 @@ a:hover {
   text-decoration-color: rgb(181, 181, 181);
 }
 
-.menu-links li a{
+.menu-links li a {
   color: black(248, 246, 246);
   text-decoration: none;
   text-decoration-color: white;
@@ -393,10 +393,10 @@ article .icon {
 .project-btn {
   color: white;
   border-color: rgb(163, 163, 163);
-  background:  rgb(53, 53, 53);
+  background: rgb(53, 53, 53);
 }
 
-.project-btn:hover{
+.project-btn:hover {
   background-color: grey;
 }
 
@@ -420,7 +420,7 @@ article .icon {
   padding: 0.6rem;
 }
 
-.contact-info-upper-container a{
+.contact-info-upper-container a {
   padding: 5px;
 }
 
